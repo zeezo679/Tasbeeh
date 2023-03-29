@@ -88,10 +88,6 @@ body{
   margin-bottom: 30px;
 }
 
-.wrapper .count:hover{
-  background-color: #b5bed0;
-  cursor: pointer;
-}
 
 
 .wrapper .count::-moz-selection {
