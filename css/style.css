@@ -94,6 +94,18 @@ body{
 }
 
 
+.wrapper .count::-moz-selection {
+  color: transparent;
+  background-color: transparent;
+}
+
+/* For other browsers */
+.wrapper .count::selection {
+  color: transparent;
+  background-color: transparent;
+}
+
+
 
 
 
